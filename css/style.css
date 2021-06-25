@@ -8,3 +8,26 @@
     content: "";
     clear: both;
 }
+body>.container{
+    width: 90%;
+    margin: auto;
+    background-color: red;
+}
+.container header{
+    background-color: #E579E6 ;
+    height: 100px;
+    width: 100%;
+    margin: 20px 0;
+}
+.container :nth-child(2){
+    width: 100%;
+    height:400px;
+    background-color: #E1D67A;
+    margin: 20px 0;
+}
+.heading-column-section{
+    background-color: #ABCFE7;
+    width: 100%;
+    height: 80px;
+    margin-bottom: 20px ;
+}
