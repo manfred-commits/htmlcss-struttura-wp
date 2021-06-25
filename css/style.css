@@ -9,34 +9,34 @@
     clear: both;
 }
 body>.container{
-    width: 90%;
+    width: 80%;
     margin: auto;
 }
 .container header{
     background-color: #E579E6 ;
-    height: 100px;
+    height: 160px;
     width: 100%;
     margin: 20px 0;
 }
 .container .image-section{
     width: 100%;
-    height:400px;
+    height: 650px;
     background-color: #E1D67A;
     margin: 20px 0;
 }
 .heading-column-section{
     background-color: #ABCFE7;
     width: 100%;
-    height: 80px;
+    height: 140px;
 }
 .container main{
     background-color: #0088FC;
 }
 .columns-container{
     width: 100%;
-    height: 500px;
-    padding-bottom: 10px;    
-    margin-top: 20px ;
+    height: 700px;
+    padding-bottom: 30px;    
+    margin-top: 30px ;
 }
 .left-column, .center-column, .right-column{
     background-color: #ABCFE7;
@@ -48,9 +48,9 @@ body>.container{
 }
 .center-column{
     height: 100%;
-    width: calc(50% - 30px);
+    width: calc(50% - 40px);
     float: left;
-    margin: 0 15px;
+    margin: 0 20px;
 }
 .right-column{
     height: 100%;
@@ -60,7 +60,7 @@ body>.container{
 footer{
     background-color: #8801FE;
     width: 100%;
-    height: 50px;
-    margin-top: 8px;
+    height: 80px;
+    margin-top: 14px;
     margin-bottom: 20px;
 }
